@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`clock snapshot 1`] = `
+<div>
+  timestamp is 
+  1615972229101
+</div>
+`;
